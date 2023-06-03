@@ -1,0 +1,100 @@
+header {
+    background-color: rgb(15, 15, 46);
+    text-align: center;
+    padding: 20px;
+    font-size: 20px;
+}
+h1 {
+    text-align: center;
+    font-size: 90px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+h2 {
+    text-align: center;
+}
+.squ {
+    width: 250px;
+    height: 250px;
+    background-color: lightseagreen;
+    border: 10px solid rgb(130, 130, 250);
+    border-radius: 10px;
+    outline: 5px solid black;
+    box-shadow: 0 0 0 20px rgb(187, 253, 187);
+    margin: 0 auto;
+}
+.mark {
+    text-align: center;
+    margin-top: 60px;
+}
+.circle {
+    width: 20px;
+    height: 20px;
+    background-color: lightseagreen;
+    display: inline-block;
+    border-radius: 50%;
+    vertical-align: middle;
+}
+.sec {
+    width: 20px;
+    height: 20px;
+    background-color: black;
+    display: inline-block;
+    border-radius: 50%;
+    vertical-align: middle;
+}
+.third {
+    width: 20px;
+    height: 20px;
+    background-color: rgb(187, 253, 187);
+    display: inline-block;
+    border-radius: 50%;
+    vertical-align: middle;
+}
+.fourth {
+    width: 20px;
+    height: 20px;
+    background-color: rgb(130, 130, 250);
+    display: inline-block;
+    border-radius: 50%;
+    vertical-align: middle;
+}
+.rec {
+    width: 1000px;
+    height: 250px;
+    outline: 5px solid black;
+    margin: 0 auto;
+    margin-bottom: 30px;
+}
+.box {
+    width: 250px;
+    height: 150px;
+    background-color: rgb(188, 238, 221);
+    display: inline-block;
+    margin-top: 50px;
+    margin-right: 650px;
+}
+.sbox {
+    width: 250px;
+    height: 150px;
+    background-color: rgb(188, 238, 221);
+   
+    margin-top: 50px;
+   
+}
+.secrec {
+    width: 1000px;
+    height: 250px;
+    outline: 5px solid black;
+    margin: 0 auto;
+    margin-top: 30px;
+}
+.secbox {
+    width: 250px;
+    height: 150px;
+    background-color: rgb(188, 238, 221);
+    display: inline-block;
+    margin-top: 50px;
+    margin-right: 650px;
+    border: 2px solid black;
+}

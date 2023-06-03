@@ -1,0 +1,10 @@
+header {
+    background-color: rgb(15, 15, 46);
+    text-align: center;
+    padding: 20px;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+.para {
+    display: inline;
+}
